@@ -2,25 +2,35 @@
 
 ## 🏠 Página Inicial
 <p align="center">
-  <img src=".github/pagina-inicial.png">
+    <kbd>
+        <img src=".github/pagina-inicial.png">
+    </kbd>
 </p>
 
 ## 🎯 Exibindo um evento
 <p align="center">
-  <img src=".github/exibindo-evento.png">
+    <kbd>
+        <img src=".github/exibindo-evento.png">
+    </kbd>
 </p>
 
 ## 📊 Dashboard
 <p align="center">
-  <img src=".github/dashboard.png">
+    <kbd>
+        <img src=".github/dashboard.png">
+    </kbd>
 </p>
 
 ## 📝 Editando um evento
 <p align="center">
-  <img src=".github/editando-evento.png">
+    <kbd>
+        <img src=".github/editando-evento.png">
+    </kbd>
 </p>
 
 ## 🔍 Buscando um evento
 <p align="center">
-  <img src=".github/buscando-evento.gif">
+    <kbd>
+        <img src=".github/buscando-evento.gif">
+    </kbd>
 </p>
